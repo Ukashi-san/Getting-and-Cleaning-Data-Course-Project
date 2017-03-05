@@ -16,4 +16,6 @@ Data used for this project comes form following location
 and represent data collected from accelerometers from Samsung Galaxy S smartphone, detailed description is available at the site where the data was obtained:
 - http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
-
+## first step
+set up working directory
+set up 
