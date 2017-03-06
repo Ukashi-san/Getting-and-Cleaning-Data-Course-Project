@@ -16,6 +16,20 @@ Data used for this project comes form following location
 and represent data collected from accelerometers from Samsung Galaxy S smartphone, detailed description is available at the site where the data was obtained:
 - http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
-## first step
-set up working directory
-set up 
+# R script works as follows
+
+## Stage 1
+
+- set up working directory
+- set up all files needed for analysis
+- create variables with labels
+
+## Stage 2
+
+- process test data first then process in the same way 
+-- read test data, activity data, subject ID data
+-- assign labels
+-- combine all above data into one dataframe
+
+
+
