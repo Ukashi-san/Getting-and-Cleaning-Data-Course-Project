@@ -26,10 +26,20 @@ and represent data collected from accelerometers from Samsung Galaxy S smartphon
 
 ## Stage 2
 
-* process test data first then process in the same way 
-+ read test data, activity data, subject ID data
-+ assign labels
-+ combine all above data into one dataframe
+* process test data first then process train data in the same way 
+        + read test data, activity data, subject ID data
+        + assign labels
+        + combine all above data into one dataframe
 
+## Stage 3
+
+* combine test and train data into one data frame
+* select required colums - colums that have information on mean and standard deviation
+* give description to activity_type
+
+## Stage 4
+
+* create tidy data frame that have mean of all colums calculated for each subject ID and Activity Type
+* write result into a file **Getting and Cleaning Data Course Project.txt**
 
 
