@@ -6,17 +6,14 @@
    this should be the folder where all data for project is extracted and all other references are relational to this place
    
 * set up all files needed for analysis
-        + "./test/X_test.txt"
-        + "./train/X_train.txt"
-
-        + #### activity data
-        + "./test/y_test.txt"
-        + "./train/y_train.txt"
-
-        + #### ID files
-        + "./test/subject_test.txt"
-        + "./train/subject_train.txt"
-
+        +"./test/X_test.txt"
+        +"./train/X_train.txt"
+        +#### activity data
+        +"./test/y_test.txt"
+        +"./train/y_train.txt"
+        +#### ID files
+        +"./test/subject_test.txt"
+        +"./train/subject_train.txt"
         + #### labels 
 data_labels <- "features.txt"
 activity_labels <- "activity_labels.txt"
