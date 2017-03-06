@@ -20,16 +20,16 @@ and represent data collected from accelerometers from Samsung Galaxy S smartphon
 
 ## Stage 1
 
-- set up working directory
-- set up all files needed for analysis
-- create variables with labels
+* set up working directory
+* set up all files needed for analysis
+* create variables with labels
 
 ## Stage 2
 
-- process test data first then process in the same way 
--- read test data, activity data, subject ID data
--- assign labels
--- combine all above data into one dataframe
+* process test data first then process in the same way 
++ read test data, activity data, subject ID data
++ assign labels
++ combine all above data into one dataframe
 
 
 
